@@ -657,20 +657,123 @@ jump(25)
 square('#775B33')
 
 
+tom.pu()
+tom.backward(575)
+tom.right(90)
+tom.forward(25)
+tom.left(90)
+tom.pd()
 
 
 
 
+tom.color('#775B33')
+tom.begin_fill()
+tom.forward(600)
+tom.right(90)
+tom.forward(25)
+tom.right(90)
+tom.forward(600)
+tom.right(90)
+tom.forward(25)
+tom.right(90)
+tom.end_fill()
+
+jump(50)
+square('#818D79')
+jump(25)
+square('#818D79')
+jump(100)
+square('#3B292A')
+jump(25)
+square('#3B1D16')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#E5C263')
+jump(25)
+square('#E5C263')
+jump(25)
+square('#E5C263')
+jump(25)
+square('#3B1D16')
+jump(25)
+square('#3B1D16')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#3B5B5B')
+jump(25)
+square('#818D79')
+jump(25)
+square('#8D6F3B')
+jump(50)
+
+
+tom.pu()
+tom.backward(575)
+tom.right(90)
+tom.forward(25)
+tom.left(90)
+tom.pd()
 
 
 
 
+tom.color('#775B33')
+tom.begin_fill()
+tom.forward(600)
+tom.right(90)
+tom.forward(25)
+tom.right(90)
+tom.forward(600)
+tom.right(90)
+tom.forward(25)
+tom.right(90)
+tom.end_fill()
 
-
-
-
-
-
+square('#773B33')
+jump(75)
+square('#8D6F3B')
+jump(100)
+square('#3B292A')
+jump(25)
+square('#3B1D16')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#E5C263')
+jump(25)
+square('#E5C263')
+jump(25)
+square('#E5C263')
+jump(25)
+square('#E5C263')
+jump(25)
+square('#3B1D16')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#79633B')
+jump(25)
+square('#79633B')
+jump(25)
+square('#3B292A')
+jump(25)
+square('#8D6F3B')
+jump(25)
+square('#8D6F3B')
+jump(25)
+square('#8D6F3B')
+jump(75)
 
 
 
@@ -692,6 +795,5 @@ square('#775B33')
 
 
 done()
-
 
 
